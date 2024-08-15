@@ -27,7 +27,7 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 GROUP="fnmlops"
-LOCATION="Australia East"
+LOCATION="australiaeast"
 WORKSPACE="fnmlops"
 # </set_variables>
 
